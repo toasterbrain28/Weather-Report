@@ -10,5 +10,13 @@
 	{
 		"name": "Hartford",
 		"id": "db33f6e4-0d12-4a56-975c-1772fe347969"
+	},
+	{
+		"name": "Billings",
+		"id": "f1d7fd62-c6e2-4adb-9882-8ac441ca5920"
+	},
+	{
+		"name": "Seattle",
+		"id": "a5288424-2bb0-4ae1-a3af-96f38a136476"
 	}
 ]
